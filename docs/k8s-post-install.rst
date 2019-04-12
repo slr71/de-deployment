@@ -12,3 +12,4 @@ Kubernetes Post-Installation Tasks
    k8s-post-install/consul
    k8s-post-install/vault
    k8s-post-install/elasticsearch
+   k8s-post-install/redis

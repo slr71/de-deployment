@@ -5,9 +5,11 @@ DE Installation
    :maxdepth: 2
    :caption: Contents:
 
-   de/secrets.rst
-   de/ingresses.rst
-   de/roles.rst
-   de/accounts.rst
-   de/services.rst
-   de/de.rst
+   de/secrets
+   de/ingresses
+   de/roles
+   de/accounts
+   de/grouper
+   de/databases
+   de/services
+   de/de

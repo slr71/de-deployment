@@ -10,6 +10,7 @@ Welcome to de-deployment's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   overview
    prerequisites
    infrastructure
    k8s-post-install
